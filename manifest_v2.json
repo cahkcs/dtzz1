@@ -1,0 +1,88 @@
+{
+  "item": {
+    "id": "com.cahkcs.dituzhanchang",
+    "restype": "quick_app",
+    "name": "地图战争",
+    "description": "地图战争是一款以领土扩张为核心的策略对战游戏。玩家在方格地图上与电脑对手展开攻防，\n通过攻击相邻空地夺取控制权，占领的格子可作为新的出发点继续扩张，并逐步向敌方腹地推进。\n游戏提供平原、攻城、对决、历史战役等多种模式，每局实时模拟双方兵力增长与电脑 AI 行动，\n支持兵力调动、调令、招募令、间谍、矿场探测器，DF5(东风导弹)等战术道具 strategically 辅助攻防。\n玩法简单直观，适合碎片时间游玩。米坛已经破w下载量的战术策略游戏,极致的攻击动画深受玩家喜欢。",
+    "preview": [
+      "media/xiaomi_band_10-2026-10-27-00-20-56.png",
+      "media/xiaomi_band_10-2026-10-26-23-18-50.png",
+      "media/xiaomi_band_pro-2026-10-27-00-21-36.png",
+      "media/xiaomi_band_pro-2026-10-27-00-21-24.png",
+      "media/xiaomi_band_10-2026-10-27-00-21-05.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/map_war_official_cover.png",
+    "author": [
+      {
+        "name": "cahkcs",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/item/fd8901468d9311f08e085254001e7c00?utm_source=copylink&utm_medium=link",
+      "icon": "facebook-logo"
+    },
+    {
+      "title": "官网",
+      "url": "https://mi.steam.cab/",
+      "icon": "dev-to-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_pro1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmrw5xring": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_pro1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmrw6": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_pro1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb10": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_米粒1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb10p": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_pro1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb10nfc": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_米粒1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb11": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_米粒1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb11nfc": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_米粒1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb9": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_米粒1.4.0.rpk",
+      "versionCode": 15
+    },
+    "xmb9p": {
+      "version": "1.4.0",
+      "file_name": "downloads/地图战争_pro1.4.0.rpk",
+      "versionCode": 15
+    }
+  },
+  "ext": {}
+}
